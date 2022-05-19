@@ -22,5 +22,11 @@ public class Main {
         FacX.color = "green";
         FacX.radius = "3242y563463km";
         FacX.size = "9999999999m";
+
+        // adding features for Planet1
+        Planet1Features Hulk = new Planet1Features();
+        Hulk.color = "blue";
+        Hulk.size = "4532524y0908km";
+        Hulk.name = "PreacheX";
     }
 }
