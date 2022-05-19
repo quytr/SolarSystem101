@@ -22,5 +22,11 @@ public class Main {
         FacX.color = "green";
         FacX.radius = "3242y563463km";
         FacX.size = "9999999999m";
+
+        // adding the features for Planet2
+        Planet2 Ironman = new Planet2();
+        Ironman.name = "Avenger";
+        Ironman.size = "9452423y523452km";
+        Ironman.color = "red";
     }
 }
